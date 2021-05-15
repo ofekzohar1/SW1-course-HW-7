@@ -1,1 +1,11 @@
-
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/src/il/ac/tau/cs/sw1/ex7/CoinsTester.java
+/src/il/ac/tau/cs/sw1/ex7/FractionalKnapSackTester.java
+/src/il/ac/tau/cs/sw1/ex7/GraphTester.java
